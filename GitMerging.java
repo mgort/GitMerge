@@ -9,7 +9,7 @@ public class GitMerging {
 		else if (score > 60)
 			System.out.println("That's good ");
 		else
-			System.out.println("Well, what can I say?");
+			System.out.println("You did bad, and you should feel bad.");
 	}
 	
 	public static void main(String[] args) {
