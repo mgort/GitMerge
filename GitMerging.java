@@ -14,6 +14,8 @@ public class GitMerging {
 	
 	public static void main(String[] args) {
 		GitMerging tm = new GitMerging();
+		tm.feedback(80);
+		tm.feedback(20);
 		tm.feedback(60);
 	}
 }
