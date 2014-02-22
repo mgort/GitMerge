@@ -8,6 +8,8 @@ public class GitMerging {
 			System.out.println("That's great");
 		else if (score > 60)
 			System.out.println("That's good ");
+		else if (score > 40)
+			System.out.println("Are you proud?");
 		else
 			System.out.println("Well, what can I say?");
 	}
