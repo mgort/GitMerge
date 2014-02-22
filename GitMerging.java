@@ -11,7 +11,7 @@ public class GitMerging {
 		else if (score > 40)
 			System.out.println("Are you proud?");
 		else
-			System.out.println("Well, what can I say?");
+			System.out.println("You did bad, and you should feel bad.");
 	}
 	
 	public static void main(String[] args) {
